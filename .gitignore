@@ -1,3 +1,4 @@
+AzureDFProvider.*
 AzureDFProvider.tf
 variables.tf
 terraform.tfstate
