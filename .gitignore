@@ -6,7 +6,7 @@ terraform.tfstate.backup
 .terraform/
 AzureDFProvider.tfold
 AzureDFProvider.*
-AzureDFProvider.tf
+AzureDFProviderSecret.tf
 variables.tf
 terraform.tfstate
 terraform.tfstate.backup
